@@ -14,7 +14,7 @@ type model and is a part of our project submission for the Artifial Intelligence
 https://drive.google.com/file/d/1jnwnVBo9lHJ6tCCduJrUieoO_DLGuAE_/view?usp=sharing
 
 # Feeback Video Link
-
+https://drive.google.com/file/d/1JB-EH3UMYrFrNZ5bza5ewswe2P8W8yva/view?usp=drivesdk
 
 # Dataset
 Uploaded as daily_csv
